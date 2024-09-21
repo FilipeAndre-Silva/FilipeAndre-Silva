@@ -1,36 +1,39 @@
 # 👋 Bem-vindo ao meu perfil!
 
-Olá! Eu sou **Filipe Paiva**, um Desenvolvedor .NET Backend Sênior com mais de 4 anos de experiência em criar, manter e integrar soluções robustas. Sou apaixonado por tecnologia e sempre busco aprender e evoluir nas melhores práticas de desenvolvimento.
+Olá! Eu sou **Filipe S. Paiva**, um **Desenvolvedor .NET Backend** com mais de 4 anos de experiência em desenvolvimento de software. Tenho contribuído significativamente para o sucesso de grandes empresas, entregando soluções robustas e escaláveis em todo o Brasil.
 
 ## 🌟 Sobre Mim
 
-- 💻 **Experiência**: Trabalho com a plataforma .NET, desenvolvendo aplicações escaláveis e de alta performance.
-- 🔍 **Especializações**: 
-  - Desenvolvimento de APIs RESTful com ASP.NET Core
-  - Integração de bancos de dados (SQL Server, PostgreSQL)
-  - Arquitetura de software e padrões de design
-  - Práticas de desenvolvimento ágil e DevOps
+- 💻 **Experiência Profissional**:
+  - **TOTVS**: Analista II de Backend, sou responsável pela criação, manutenção e integração de soluções inovadoras para o setor hoteleiro.
+  - **Stefanini Brasil**: Analista Desenvolvedor, criando APIs REST para o cliente Cenconsud, um grande nome no varejo da América Latina.
+  - **Home Center Ferreira Costa**: Engenheiro de Software, onde substituí uma solução de E-commerce existente em OutSystems por um microsserviço em .NET.
 
-## 📚 Projetos em Destaque
+## 📚 Formação Acadêmica
 
+- **Pós-Graduação** em Arquitetura de Soluções em Plataforma .NET (C#) - Faculdade VINCIT
+- **Graduação** em Análise e Desenvolvimento de Sistemas - Faculdade UNISÃOMIGUEL
 
+## 🔧 Habilidades
+
+- **Backend com .NET**
+- **ASP.NET Core**
+- **RESTful APIs**
+- **SQL Server e PostgreSQL**
+- **Entity Framework e Dapper**
+- **Testes Unitários**
+- **Microsserviços e DDD**
+- **Mensageria com RabbitMQ**
+- **Metodologias Ágeis**
+- **SOLID e Clean Code**
 
 ## 🤝 Vamos nos conectar!
 
-Sinta-se à vontade para entrar em contato ou seguir-me nas redes sociais:
+- 📧 **E-mail**: [filipeandre.private@gmail.com](mailto:filipeandre.private@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/filipe-andre](https://linkedin.com/in/filipe-andre)
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
 
-Agradeço a visita e espero que você aproveite meus projetos! Se tiver alguma dúvida ou sugestão, não hesite em me chamar!
+---
 
-## 🔗 Tecnologias que uso
-
-```plaintext
-- C#
-- .NET Core
-- ASP.NET
-- SQL Server
-- PostgreSQL
-- Microservices
-- Docker
-- Azure
+Obrigado por visitar meu perfil! 🚀
