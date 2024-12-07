@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Me chamo **Filipe André** e sou um **Desenvolvedor .NET Backend Sênior**. Com mais de 4 anos de experiência em desenvolvimento de software, atuo na criação de soluções confiáveis e escaláveis utilizando a plataforma .NET, atendendo a demandas complexas de grandes empresas no Brasil e contribuindo para resultados estratégicos.
+Olá! Meu nome é Filipe André, e sou Desenvolvedor .NET Backend Sênior. Com mais de 4 anos de experiência em desenvolvimento de software, dedico-me a criar soluções robustas e escaláveis utilizando a plataforma .NET. Tenho atuado no atendimento a demandas complexas de grandes empresas no Brasil, contribuindo de forma estratégica para alcançar resultados significativos.
 
 ## Sobre Mim
 
@@ -33,7 +33,7 @@ Olá! Me chamo **Filipe André** e sou um **Desenvolvedor .NET Backend Sênior**
 ## 🤝 Vamos nos conectar!
 
 - 📧 **E-mail**: [filipeandre.private@gmail.com](mailto:filipeandre.private@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/filipe-andre](https://linkedin.com/in/filipe-andre)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-andre)
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
 
