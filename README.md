@@ -5,10 +5,10 @@ Olá! Me chamo **Filipe André** e sou um **Desenvolvedor .NET Backend Sênior**
 ## Sobre Mim
 
 - **Experiência Profissional**:
-  - **GubolinCo Brasil**: Desenvolvedor .NET Backend Sênior, participo do design, desenvolvimento e otimização de soluções backend robustas e escaláveis, utilizando as melhores práticas de arquitetura de software e tecnologias avançadas da plataforma .NET.   
-  - **TOTVS**: Analista II de Backend, sou responsável pela criação, manutenção e integração de soluções inovadoras para o setor hoteleiro.
-  - **Stefanini Brasil**: Analista Desenvolvedor, criando APIs REST para o cliente Cenconsud, um grande nome no varejo da América Latina.
-  - **Home Center Ferreira Costa**: Engenheiro de Software, onde substituí uma solução de E-commerce existente em OutSystems por um microsserviço em .NET.
+  - **GubolinCo Brasil**: Participo do design, desenvolvimento e otimização de soluções backend robustas e escaláveis, utilizando as melhores práticas de arquitetura de software e tecnologias avançadas da plataforma .NET.   
+  - **TOTVS**: Fui responsável pela criação, manutenção e integração de soluções inovadoras para o setor hoteleiro.
+  - **Stefanini Brasil**: Reponsável pela criando APIs REST para o cliente Cenconsud, um grande nome no varejo da América Latina.
+  - **Home Center Ferreira Costa**: Integrante de uma migração de E-commerce em OutSystems para um microsserviço em .NET.
 
 ## Formação Acadêmica
 
