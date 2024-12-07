@@ -1,11 +1,11 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Me chamo **Filipe S. Paiva** e sou um **Desenvolvedor .NET Backend**. Tenho contribuído significativamente para o sucesso de grandes empresas, entregando soluções robustas e escaláveis em todo o Brasil. Com mais de 4 anos de experiência em desenvolvimento de software, atuo na criação de soluções confiáveis e escaláveis utilizando a plataforma .NET, atendendo a demandas complexas de grandes empresas no Brasil e contribuindo para resultados estratégicos.
+Olá! Me chamo **Filipe André** e sou um **Desenvolvedor .NET Backend Sênior**. Com mais de 4 anos de experiência em desenvolvimento de software, atuo na criação de soluções confiáveis e escaláveis utilizando a plataforma .NET, atendendo a demandas complexas de grandes empresas no Brasil e contribuindo para resultados estratégicos.
 
 ## Sobre Mim
 
 - **Experiência Profissional**:
-  - **GubolinCo Brasil**: Desenvolvedor .Net Backend, participo do design, desenvolvimento e otimização de soluções backend robustas e escaláveis, utilizando as melhores práticas de arquitetura de software e tecnologias avançadas da plataforma .NET.   
+  - **GubolinCo Brasil**: Desenvolvedor .NET Backend Sênior, participo do design, desenvolvimento e otimização de soluções backend robustas e escaláveis, utilizando as melhores práticas de arquitetura de software e tecnologias avançadas da plataforma .NET.   
   - **TOTVS**: Analista II de Backend, sou responsável pela criação, manutenção e integração de soluções inovadoras para o setor hoteleiro.
   - **Stefanini Brasil**: Analista Desenvolvedor, criando APIs REST para o cliente Cenconsud, um grande nome no varejo da América Latina.
   - **Home Center Ferreira Costa**: Engenheiro de Software, onde substituí uma solução de E-commerce existente em OutSystems por um microsserviço em .NET.
