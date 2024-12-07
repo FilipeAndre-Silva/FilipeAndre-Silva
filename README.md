@@ -1,20 +1,20 @@
-# 👋 Bem-vindo ao meu perfil!
+# Bem-vindo ao meu perfil!
 
 Olá! Eu sou **Filipe S. Paiva**, um **Desenvolvedor .NET Backend** com mais de 4 anos de experiência em desenvolvimento de software. Tenho contribuído significativamente para o sucesso de grandes empresas, entregando soluções robustas e escaláveis em todo o Brasil.
 
-## 🌟 Sobre Mim
+## Sobre Mim
 
 - 💻 **Experiência Profissional**:
   - **TOTVS**: Analista II de Backend, sou responsável pela criação, manutenção e integração de soluções inovadoras para o setor hoteleiro.
   - **Stefanini Brasil**: Analista Desenvolvedor, criando APIs REST para o cliente Cenconsud, um grande nome no varejo da América Latina.
   - **Home Center Ferreira Costa**: Engenheiro de Software, onde substituí uma solução de E-commerce existente em OutSystems por um microsserviço em .NET.
 
-## 📚 Formação Acadêmica
+## Formação Acadêmica
 
 - **Pós-Graduação** em Arquitetura de Soluções em Plataforma .NET (C#) - Faculdade VINCIT
 - **Graduação** em Análise e Desenvolvimento de Sistemas - Faculdade UNISÃOMIGUEL
 
-## 🔧 Habilidades
+## Habilidades
 
 - **Backend com .NET**
 - **ASP.NET Core**
