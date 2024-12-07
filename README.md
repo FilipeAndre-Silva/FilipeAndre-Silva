@@ -17,16 +17,11 @@ Olá! Me chamo **Filipe André** e sou um **Desenvolvedor .NET Backend Sênior**
 
 ## Hard Skills
 
-- **Backend com .NET**
-- **ASP.NET Core**
-- **RESTful APIs**
-- **SQL Server e PostgreSQL**
-- **Entity Framework e Dapper**
-- **Testes Unitários**
-- **Microsserviços e DDD**
-- **Mensageria com RabbitMQ**
-- **Metodologias Ágeis**
-- **SOLID e Clean Code**
+- **Backend com .NET**             | **Microsserviços e DDD**
+- **ASP.NET Core**                 | **Mensageria com RabbitMQ**
+- **RESTful APIs**                 | **Metodologias Ágeis**
+- **SQL Server e PostgreSQL**      | **SOLID e Clean Code**
+- **Entity Framework e Dapper**    | **Testes Unitários**
 
 ## 🤝 Vamos nos conectar!
 
