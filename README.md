@@ -15,7 +15,7 @@ Olá! Me chamo **Filipe André** e sou um **Desenvolvedor .NET Backend Sênior**
 - **Pós-Graduação** em Arquitetura de Soluções em Plataforma .NET (C#) - Faculdade VINCIT
 - **Graduação** em Análise e Desenvolvimento de Sistemas - Faculdade UNISÃOMIGUEL
 
-## Habilidades
+## Hard Skills
 
 - **Backend com .NET**
 - **ASP.NET Core**
