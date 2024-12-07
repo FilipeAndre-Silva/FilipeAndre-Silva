@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Eu sou **Filipe S. Paiva**, um **Desenvolvedor .NET Backend**. Tenho contribuído significativamente para o sucesso de grandes empresas, entregando soluções robustas e escaláveis em todo o Brasil. Com mais de 4 anos de experiência em desenvolvimento de software, atuo na criação de soluções confiáveis e escaláveis utilizando a plataforma .NET, atendendo a demandas complexas de grandes empresas no Brasil e contribuindo para resultados estratégicos.
+Olá! Me chamo **Filipe S. Paiva** e sou um **Desenvolvedor .NET Backend**. Tenho contribuído significativamente para o sucesso de grandes empresas, entregando soluções robustas e escaláveis em todo o Brasil. Com mais de 4 anos de experiência em desenvolvimento de software, atuo na criação de soluções confiáveis e escaláveis utilizando a plataforma .NET, atendendo a demandas complexas de grandes empresas no Brasil e contribuindo para resultados estratégicos.
 
 ## Sobre Mim
 
