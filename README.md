@@ -32,7 +32,7 @@ Olá! Meu nome é Filipe André, e sou Desenvolvedor .NET Backend Sênior. Com m
 
 ## 🤝 Vamos nos conectar!
 
-- 📧 **E-mail**: [filipeandre.private@gmail.com](mailto:filipeandre.private@gmail.com)
+- [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipeandre.private@gmail.com)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-andre)
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
