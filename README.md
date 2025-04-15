@@ -4,7 +4,7 @@ Olá! Meu nome é Filipe André, e sou Desenvolvedor .NET Backend Sênior. Com m
 
 ## Experiências profissionais
 
-- **Experiência Profissional**:
+- **Desenvolvimento de Software**:
   - **GubolinCo Brasil**: Sou responsável por projetar, manter e integrar soluções de rastreamento veicular utilizando C#, ASP.NET Core, MySQL, Works e Automações. Atendo grandes redes de transporte e logística internacionais, garantindo eficiência e confiabilidade. 
   - **TOTVS**: Colaborando na criação, manutenção e integração de soluções de ERP inovadoras para o setor hoteleiro.
   - **Stefanini Brasil**: Reponsável pela criando APIs REST para o cliente Cenconsud, um grande nome no varejo da América Latina.
